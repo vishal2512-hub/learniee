@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Foundations of Algebra",
+    "subject": "Math",
+    "grade": "Grade 6",
+    "price": 1200,
+    "teacherName": "Anita Sharma",
+    "teacherRating": 4.6
+  },
+  {
+    "id": 2,
+    "title": "Creative Writing Basics",
+    "subject": "English",
+    "grade": "Grade 6",
+    "price": 1000,
+    "teacherName": "Rohan Mehta",
+    "teacherRating": 4.2
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Physics",
+    "subject": "Science",
+    "grade": "Grade 8",
+    "price": 1800,
+    "teacherName": "Priya Nair",
+    "teacherRating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "Grammar & Comprehension",
+    "subject": "English",
+    "grade": "Grade 7",
+    "price": 900,
+    "teacherName": "Sana Iqbal",
+    "teacherRating": 3.9
+  },
+  {
+    "id": 5,
+    "title": "Geometry Essentials",
+    "subject": "Math",
+    "grade": "Grade 7",
+    "price": 1300,
+    "teacherName": "Anita Sharma",
+    "teacherRating": 4.6
+  },
+  {
+    "id": 6,
+    "title": "Chemistry Basics",
+    "subject": "Science",
+    "grade": "Grade 9",
+    "price": 2000,
+    "teacherName": "Vikram Rao",
+    "teacherRating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "Advanced Algebra",
+    "subject": "Math",
+    "grade": "Grade 9",
+    "price": 2200,
+    "teacherName": "Deepak Joshi",
+    "teacherRating": 4.1
+  },
+  {
+    "id": 8,
+    "title": "Essay Writing Mastery",
+    "subject": "English",
+    "grade": "Grade 9",
+    "price": 1500,
+    "teacherName": "Rohan Mehta",
+    "teacherRating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "Biology Fundamentals",
+    "subject": "Science",
+    "grade": "Grade 7",
+    "price": 1400,
+    "teacherName": "Priya Nair",
+    "teacherRating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "Trigonometry Basics",
+    "subject": "Math",
+    "grade": "Grade 10",
+    "price": 2500,
+    "teacherName": "Deepak Joshi",
+    "teacherRating": 4.1
+  },
+  {
+    "id": 11,
+    "title": "Spoken English Confidence",
+    "subject": "English",
+    "grade": "Grade 8",
+    "price": 1100,
+    "teacherName": "Sana Iqbal",
+    "teacherRating": 3.9
+  },
+  {
+    "id": 12,
+    "title": "Physics for Board Exams",
+    "subject": "Science",
+    "grade": "Grade 10",
+    "price": 2600,
+    "teacherName": "Vikram Rao",
+    "teacherRating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "Number Systems & Fractions",
+    "subject": "Math",
+    "grade": "Grade 6",
+    "price": 1000,
+    "teacherName": "Anita Sharma",
+    "teacherRating": 4.6
+  },
+  {
+    "id": 14,
+    "title": "Reading Comprehension Sprint",
+    "subject": "English",
+    "grade": "Grade 6",
+    "price": 800,
+    "teacherName": "Rohan Mehta",
+    "teacherRating": 4.2
+  },
+  {
+    "id": 15,
+    "title": "Environmental Science Basics",
+    "subject": "Science",
+    "grade": "Grade 6",
+    "price": 950,
+    "teacherName": "Priya Nair",
+    "teacherRating": 4.8
+  },
+  {
+    "id": 16,
+    "title": "Statistics & Probability",
+    "subject": "Math",
+    "grade": "Grade 10",
+    "price": 2400,
+    "teacherName": "Deepak Joshi",
+    "teacherRating": 4.1
+  },
+  {
+    "id": 17,
+    "title": "Creative Grammar Workshop",
+    "subject": "English",
+    "grade": "Grade 10",
+    "price": 1600,
+    "teacherName": "Sana Iqbal",
+    "teacherRating": 3.9
+  },
+  {
+    "id": 18,
+    "title": "Organic Chemistry Intro",
+    "subject": "Science",
+    "grade": "Grade 9",
+    "price": 2100,
+    "teacherName": "Vikram Rao",
+    "teacherRating": 4.4
+  }
+]
